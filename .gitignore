@@ -1,0 +1,29 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Excel temporary files
+~$*.xlsx
+~$*.xlsm
+
+# Python environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+*.env
+# Editable report master (kept locally; final PDF will be published)
+03_Equity_Research_Report/*.docx
