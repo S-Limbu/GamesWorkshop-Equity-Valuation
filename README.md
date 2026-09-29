@@ -8,6 +8,8 @@ The project combines historical financial analysis, forecast modelling, discount
 
 The valuation is anchored to a valuation date of 1 June 2025.
 
+---
+
 ## What's Included
 
 This repository contains three main outputs:
@@ -17,6 +19,8 @@ This repository contains three main outputs:
 - **Equity research report** — a professional written report covering the company's historical performance, valuation methodology, risks and key findings.
 
 Supporting annual reports and source documents are retained in the `04_Sources` folder.
+
+---
 
 ## Project Objective
 
@@ -39,6 +43,8 @@ The analysis covers:
 ---
 
 ## Key Valuation Results
+
+The base-case DCF produces an implied equity value of approximately £3.07bn, equivalent to an implied value of £93.04 per share at the stated valuation date.
 
 | Metric | Result |
 |---|---:|
@@ -155,7 +161,7 @@ GamesWorkshop-Equity-Valuation/
 
 The analysis primarily uses Games Workshop Group plc annual reports and company financial disclosures.
 
-The original annual report documents used in the analysis are retained in the 04_Sources folder.
+The original annual report documents used in the analysis are retained in the `04_Sources` folder.
 
 The sources folder contains the historical annual reports used to construct the financial dataset.
 
