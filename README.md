@@ -8,7 +8,15 @@ The project combines historical financial analysis, forecast modelling, discount
 
 The valuation is anchored to a valuation date of 1 June 2025.
 
----
+## What's Included
+
+This repository contains three main outputs:
+
+- **Excel valuation model** — historical financials, forecast assumptions, DCF valuation, trading comparables and sensitivity analysis.
+- **Python analysis** — an independent analytical implementation using pandas, NumPy and Matplotlib, including financial analysis and visualisations.
+- **Equity research report** — a professional written report covering the company's historical performance, valuation methodology, risks and key findings.
+
+Supporting annual reports and source documents are retained in the `04_Sources` folder.
 
 ## Project Objective
 
